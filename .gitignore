@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production builds
+dist/
+build/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs & Cache
+*.log
+.cache/
+__pycache__/
+*.pyc
+.env
+.env.local
